@@ -1,9 +1,10 @@
-Thaana Text Generator for Sketch
+Thaana Text Generator for Sketch3
 ============================
 
 Generating dummy text for thaana layouts has been such a hassle? Thaana Text generator provides you options to generate Titles, Paragraphs and Articles.
 
 ## Usage
+
 #####Generating Titles
 
 To generate titles, go to Plugins->ThaanaText->Titles
