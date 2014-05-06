@@ -1,0 +1,4 @@
+#import 'plugin.js'
+#import 'data.js'
+
+generateText(titles,'thaana title');
